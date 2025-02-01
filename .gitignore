@@ -1,0 +1,13 @@
+.idea
+.tmp
+.history
+.vscode
+.project
+~*
+*.~*
+**/dist
+**/public
+**/target
+*.iml
+**/*log.*
+
